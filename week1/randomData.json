@@ -1,0 +1,57 @@
+[{
+    "gender": "female",
+    "name": {
+        "title": "Ms",
+        "first": "Nalan",
+        "last": "Hamzaoğlu"
+    },
+    "location": {
+        "street": {
+            "number": 4123,
+            "name": "Anafartalar Cd"
+        },
+        "city": "Mersin",
+        "state": "Antalya",
+        "country": "Turkey",
+        "postcode": 51271,
+        "coordinates": {
+            "latitude": "66.7412",
+            "longitude": "95.5828"
+        },
+        "timezone": {
+            "offset": "+5:45",
+            "description": "Kathmandu"
+        }
+    },
+    "email": "nalan.hamzaoglu@example.com",
+    "login": {
+        "uuid": "b7fc6161-7b82-4c81-8de9-fc25dfc25b51",
+        "username": "organiczebra807",
+        "password": "twelve",
+        "salt": "TGjVHfUZ",
+        "md5": "fbe36a2763f19334895282f491ba1629",
+        "sha1": "ef585ecf2a60b1b46b3aea9eb937d7a0030122dd",
+        "sha256": "3b55b730658ff7791252bc15d072c86f387fd5973a231500fe30940b45669652"
+    },
+    "dob": {
+        "date": "1954-02-14T06:39:11.647Z",
+        "age": 68
+    },
+    "registered": {
+        "date": "2009-10-13T07:01:47.021Z",
+        "age": 13
+    },
+    "phone": "(971)-373-1587",
+    "cell": "(845)-779-6960",
+    "id": {
+        "name": "",
+        "value": null
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/women/82.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+    },
+    "nat": "TR"
+}
+]
